@@ -24,5 +24,8 @@ class cse:
 ```
 
 ## Output
+<img width="516" height="175" alt="image" src="https://github.com/user-attachments/assets/5a59db0b-4a6e-4e92-9f10-23db413ad57f" />
 
 ## Result
+The Python program that calculates the area of a circle based on the radius provided by the user. This program uses a class named cse and a method mech to perform the calculation is executed successfully.
+
